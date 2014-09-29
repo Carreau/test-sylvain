@@ -3,5 +3,5 @@ import matplotlib
 
 print('bonjour')
 
-x = range(25)
+x = range('test')
 
