@@ -2,5 +2,5 @@ import matplotlib
 
 print('bonjour')
 
-x = range(10)
+x = range(12)
 
