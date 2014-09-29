@@ -1,6 +1,7 @@
+## pour faire des graph
 import matplotlib 
 
 print('bonjour')
 
-x = range(10)
+x = range(8)
 
